@@ -2,7 +2,7 @@
 body{background-color: #E8EBE4;}
 .pagebox{
 	background-color: #ffffff;
-	width: 70%;
+	width: 100%;
 	margin: auto;
 }
 
@@ -11,6 +11,7 @@ h1{
 	font-weight: bold;
 	color: #000000;
 	font-size: 72px;
+	width: 100%;
 }
 
 nav{
@@ -27,6 +28,7 @@ img{
 h2{
 	font-family: arial, sans-serif;
 	color: #8b0000;
+	width: 100%;
 }
 
 footer{
